@@ -4,6 +4,7 @@ pipeline {
     stage('Hello'){
     eteps {
       echo "hello word"
+      
     }
     
     }
