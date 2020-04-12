@@ -3,7 +3,7 @@ pipeline {
   stages { 
     stage('Hello'){
     eteps {
-      echo "Hello word"
+      echo "hello word"
     }
     
     }
