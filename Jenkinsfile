@@ -11,4 +11,4 @@ post {
           tokenCredentialId: 'slack-token-build-failures',
           username: ''
         }
-    }
+}
