@@ -44,7 +44,7 @@ pipeline {
             echo "Always display this message "
         }
         failure {
-            echo "Job failed "
+            echo "Job fail"
         }
         success {
             echo "Successful run "
